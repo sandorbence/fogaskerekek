@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<kenoanyagok>
+ <kenoanyag viszkozitas="5">VG5</kenoanyag>
+ <kenoanyag viszkozitas="7">VG7</kenoanyag>
+ <kenoanyag viszkozitas="10">VG10</kenoanyag>
+ <kenoanyag viszkozitas="15">VG15</kenoanyag>
+ <kenoanyag viszkozitas="22">VG22</kenoanyag>
+ <kenoanyag viszkozitas="32">VG32</kenoanyag>
+ <kenoanyag viszkozitas="46">VG46</kenoanyag>
+ <kenoanyag viszkozitas="68">VG68</kenoanyag>
+ <kenoanyag viszkozitas="100">VG100</kenoanyag>
+ <kenoanyag viszkozitas="150">VG150</kenoanyag>
+ <kenoanyag viszkozitas="320">VG320</kenoanyag>
+ <kenoanyag viszkozitas="460">VG460</kenoanyag>
+ <kenoanyag viszkozitas="680">VG680</kenoanyag>
+ <kenoanyag viszkozitas="1000">VG1000</kenoanyag>
+ <kenoanyag viszkozitas="1500">VG1500</kenoanyag>
+</kenoanyagok>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<anyagok>
+  <anyag SzigmaH="1470" SzigmaF="430">16MnCr5</anyag>
+  <anyag SzigmaH="1490" SzigmaF="460">15CrNi6</anyag>
+  <anyag SzigmaH="1510" SzigmaF="500">17CrNiMo6</anyag>
+  <anyag SzigmaH="1470" SzigmaF="430">20MnCr5</anyag>
+  <anyag SzigmaH="1500" SzigmaF="500">18CrNiMo7-6</anyag>
+  <anyag SzigmaH="730" SzigmaF="300">30CrNiMo8</anyag>
+  <anyag SzigmaH="770" SzigmaF="310">34CrNiMo6</anyag>
+  <anyag SzigmaH="740" SzigmaF="305">42CrMo4</anyag>
+  <anyag SzigmaH="1000" SzigmaF="370">34CrNiMo6,nitridált</anyag>
+  <anyag SzigmaH="1000" SzigmaF="370">42CrMo4,nitridált</anyag>
+</anyagok>
